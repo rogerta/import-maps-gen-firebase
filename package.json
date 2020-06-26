@@ -1,0 +1,12 @@
+{
+  "name": "import-maps-gen-firebase",
+  "version": "1.0.0",
+  "description": "Shows problem using @import-maps/generate with firebase",
+  "main": "index.js",
+  "author": "Roger Tawa <roger@tawacentral.net>",
+  "license": "MIT",
+  "dependencies": {
+    "@import-maps/generate": "^0.2.6",
+    "firebase": "^7.15.5"
+  }
+}
